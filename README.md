@@ -18,12 +18,29 @@ The following **required** functionality is completed:
 <img src="/appGIF.gif" width="" />
 
 
-
 ## App Brainstorming (Step 4)
+
+A list of my favorite apps and their interesting features
+
+- Reddit
+    - Forum-based app
+    - User Authentication
+    
+- X
+    - Creating and deleting posts
+    - User Authentication
+    
+- Tiktok
+    - Video uploads
+    - Streaming Videos
+    
+An app I would like to build
+
+- A forum-based app for anonymous messages where users can add posts and comments to forums anonymously. I would like to implement basic CRUD features, user authentication, sign in and sign up forms, and proper design.
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Implementing the button feature was difficult
 
 ## License
 
